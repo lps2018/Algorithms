@@ -169,7 +169,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DecimalToBinary">
+  <component name="RunManager" selected="Application.ObjectCreation">
     <configuration name="DecimalToBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.SnapIot.Numbers.DecimalToBinary" />
       <module name="Algorithms" />
@@ -186,6 +186,16 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.SnapIot.Numbers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ObjectCreation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.SnapIot.OOPS.ObjectCreation" />
+      <module name="Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.SnapIot.OOPS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -210,30 +220,20 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="SwapVariables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.SnapIot.Numbers.SwapVariables" />
-      <module name="Algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.SnapIot.Numbers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
     <list>
-      <item itemvalue="Application.SwapVariables" />
       <item itemvalue="Application.FibanocciSeries" />
       <item itemvalue="Application.PalindromeNumber" />
       <item itemvalue="Application.DecimalToBinary" />
       <item itemvalue="Application.ReverseNumber" />
+      <item itemvalue="Application.ObjectCreation" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ObjectCreation" />
         <item itemvalue="Application.DecimalToBinary" />
         <item itemvalue="Application.ReverseNumber" />
         <item itemvalue="Application.PalindromeNumber" />
         <item itemvalue="Application.FibanocciSeries" />
-        <item itemvalue="Application.SwapVariables" />
       </list>
     </recent_temporary>
   </component>
