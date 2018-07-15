@@ -1,31 +1,39 @@
 package com.SnapIot.Numbers;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+
 public class DecimalToBinary {
     public static void main(String[] args) {
 
-     int number =8;
-        convert (number) ;
+        int number = 8;
+        convert(number);
 
     }
 
 
+    public static void convert(int number) {
+        int reminder = 0;
 
-    public static void convert (int number)
-    {
-     int reminder =0;
-      int binary[] = new int[25];
-
-     int length = Integer.parseInt(String.valueOf(number));
-      for( int i =0; i<number;i++)
-      {
-        reminder = number %2;
-        number =number/10;
-        binary[i] = number%2;
-        System.out.print(binary[i]);
-      }
-        for( int i =0; i<length;i++)
+        // counter for binary array
+        int i = 0;
+        int binary[] = new int[25];
+        while (number > 0)
         {
-            ///System.out.println(reminder);
+           // reminder = number % 2;
+            binary[i] = number % 2;
+            number = number / 2;
+            i++;
+            // System.out.println(reminder);
+
+             System.out.print(binary[i]);
         }
+
+        for (int j = i - 1; j >= 0; j--)
+        {
+            System.out.print(binary[j]);
+        }
+
+
     }
 }
