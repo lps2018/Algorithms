@@ -1,41 +1,54 @@
 package com.SnapIot.Numbers;
 
+
 public class PalindromeNumber
 {
-   static int number ;
-    static int remainder ;
+
+
+    static int i;
     public static void main(String[] args)
     {
-        number =121;
-        palindrome();
+        int number =121;
+        boolean isPalidrome = palindrome(number);
+        if (isPalidrome)
+            System.out.println("Palindrome");
+        else
+            System.out.println("Not Palindrome");
 
     }
 
     public static int reverseNumber(int n)
-    { int remainder = 0;
+    {
 
-        for (int i = 0; i <= n; i++)
+        int length = Integer.parseInt(String.valueOf(n));
+        String remainder = "";
+        int reversed_number =0;
+       int[] array = new int[length];
+        for (i = 0; i <= n+1; i++)
         {
 
-            remainder = n % 10;
+
+            array[i] = n % 10;
             n = n / 10;
-            System.out.println(remainder);
+           //System.out.print( array[i]);
+           remainder = remainder+String .valueOf(array[i]);
+            //System.out.print( remainder);
 
         }
-        return remainder;
+        return Integer.parseInt(remainder);
     }
 
-    public static boolean palindrome()
+    public static boolean palindrome(int number)
     {
-        reverseNumber(number);
+        int reveresedNumber = reverseNumber(number);
 
-      if (number == remainder)
+      if (number == reveresedNumber)
       {
-          System.out.println(number+" is Palindrome:");
+
           return true;
       }
       else
-          System.out.println(number+" is not Palindrome:");
+
           return false;
     }
 }
