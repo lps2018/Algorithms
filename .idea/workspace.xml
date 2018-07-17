@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="915dc13f-bdec-4838-9f36-c6d599deb733" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/SnapIot/Numbers/Sum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/Numbers/PalindromeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/SnapIot/Numbers/PalindromeNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/String/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/SnapIot/String/Palindrome.java" afterDir="false" />
-    </list>
+    <list default="true" id="915dc13f-bdec-4838-9f36-c6d599deb733" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -66,8 +62,8 @@
       <file leaf-file-name="Sum.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/SnapIot/Numbers/Sum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="34" lean-forward="true" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+            <state relative-caret-position="210">
+              <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -218,12 +214,6 @@
               <item name="Algorithms" type="58d84e3e:PackageViewProjectNode" />
               <item name="Algorithms" type="616d4139:PackageViewModuleNode" />
               <item name="com.SnapIot" type="1f31426a:PackageElementNode" />
-              <item name="Numbers" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="Algorithms" type="58d84e3e:PackageViewProjectNode" />
-              <item name="Algorithms" type="616d4139:PackageViewModuleNode" />
-              <item name="com.SnapIot" type="1f31426a:PackageElementNode" />
               <item name="OOPS" type="1f31426a:PackageElementNode" />
             </path>
             <path>
@@ -359,7 +349,7 @@
       <updated>1527278828829</updated>
       <workItem from="1531578045610" duration="10534000" />
       <workItem from="1531627914654" duration="4793000" />
-      <workItem from="1531689942575" duration="12025000" />
+      <workItem from="1531689942575" duration="12989000" />
     </task>
     <servers />
   </component>
@@ -396,11 +386,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27352000" />
+    <option name="totallyTimeSpent" value="28316000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
-    <editor active="true" />
+    <frame x="125" y="171" width="1440" height="735" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -412,11 +401,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.25583658" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.39788198" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21979167" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29305556" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -972,8 +961,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/SnapIot/Numbers/Sum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="34" lean-forward="true" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+        <state relative-caret-position="210">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
         </state>
       </provider>
     </entry>
