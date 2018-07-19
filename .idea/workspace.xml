@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="915dc13f-bdec-4838-9f36-c6d599deb733" name="Default" comment="" />
+    <list default="true" id="915dc13f-bdec-4838-9f36-c6d599deb733" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/SnapIot/OOPS/EqualsHashcode/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/SnapIot/OOPS/EqualsHashcode/ObjectTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/SnapIot/OOPS/EqualsHashcode/PrimitiveEqual.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/Numbers/Sum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/Numbers/Sum.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,18 +26,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DecimalToBinary.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/SnapIot/Numbers/DecimalToBinary.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="FibanocciSeries.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/SnapIot/Numbers/FibanocciSeries.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -44,8 +38,8 @@
       <file leaf-file-name="PalindromeNumber.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/SnapIot/Numbers/PalindromeNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="70">
-              <caret line="11" column="49" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="49" />
+            <state relative-caret-position="165">
+              <caret line="11" column="49" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -54,12 +48,12 @@
         <entry file="file://$PROJECT_DIR$/src/com/SnapIot/String/Palindrome.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
-              <caret line="23" column="57" lean-forward="true" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
+              <caret line="23" column="57" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Sum.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Sum.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/SnapIot/Numbers/Sum.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
@@ -68,14 +62,57 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="PrimitiveEqual.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/SnapIot/OOPS/EqualsHashcode/PrimitiveEqual.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Contact.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/SnapIot/OOPS/EqualsHashcode/Contact.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="58" column="31" selection-start-line="58" selection-start-column="31" selection-end-line="58" selection-end-column="31" />
+              <folding>
+                <element signature="e#177#178#0" expanded="true" />
+                <element signature="e#209#210#0" expanded="true" />
+                <element signature="e#256#257#0" expanded="true" />
+                <element signature="e#298#299#0" expanded="true" />
+                <element signature="e#329#330#0" expanded="true" />
+                <element signature="e#356#357#0" expanded="true" />
+                <element signature="e#396#397#0" expanded="true" />
+                <element signature="e#428#429#0" expanded="true" />
+                <element signature="e#463#464#0" expanded="true" />
+                <element signature="e#497#498#0" expanded="true" />
+                <element signature="e#548#549#0" expanded="true" />
+                <element signature="e#594#595#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ObjectTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/SnapIot/OOPS/EqualsHashcode/ObjectTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="70" column="9" selection-start-line="70" selection-start-column="9" selection-end-line="70" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="firstNonRepeatedCharacter.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/SnapIot/String/firstNonRepeatedCharacter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
+            <state relative-caret-position="525">
               <caret line="35" selection-start-line="35" selection-end-line="35" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#425#445#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -84,8 +121,8 @@
       <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/SnapIot/OOPS/Overriding/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="526">
-              <caret line="64" column="1" lean-forward="true" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
+            <state relative-caret-position="960">
+              <caret line="64" column="1" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
               <folding>
                 <element signature="e#76#77#0" expanded="true" />
                 <element signature="e#116#117#0" expanded="true" />
@@ -97,7 +134,7 @@
       <file leaf-file-name="NumberOfOcurrances.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/SnapIot/String/NumberOfOcurrances.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
+            <state relative-caret-position="225">
               <caret line="15" column="33" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -159,6 +196,9 @@
         <option value="$PROJECT_DIR$/src/com/SnapIot/Numbers/PalindromeNumber.java" />
         <option value="$PROJECT_DIR$/src/com/SnapIot/String/Palindrome.java" />
         <option value="$PROJECT_DIR$/src/com/SnapIot/Numbers/Sum.java" />
+        <option value="$PROJECT_DIR$/src/com/SnapIot/OOPS/EqualsHashcode/PrimitiveEqual.java" />
+        <option value="$PROJECT_DIR$/src/com/SnapIot/OOPS/EqualsHashcode/ObjectTest.java" />
+        <option value="$PROJECT_DIR$/src/com/SnapIot/OOPS/EqualsHashcode/Contact.java" />
       </list>
     </option>
   </component>
@@ -172,8 +212,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="125" />
-    <option name="y" value="171" />
+    <option name="x" value="298" />
+    <option name="y" value="261" />
     <option name="width" value="1440" />
     <option name="height" value="735" />
   </component>
@@ -185,8 +225,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -220,28 +275,20 @@
               <item name="Algorithms" type="58d84e3e:PackageViewProjectNode" />
               <item name="Algorithms" type="616d4139:PackageViewModuleNode" />
               <item name="com.SnapIot" type="1f31426a:PackageElementNode" />
+              <item name="OOPS" type="1f31426a:PackageElementNode" />
+              <item name="EqualsHashcode" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Algorithms" type="616d4139:PackageViewModuleNode" />
+              <item name="com.SnapIot" type="1f31426a:PackageElementNode" />
               <item name="String" type="1f31426a:PackageElementNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -269,7 +316,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Sum">
+  <component name="RunManager" selected="Application.ObjectTest">
+    <configuration name="ObjectTest" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.SnapIot.OOPS.EqualsHashcode.ObjectTest" />
+      <module name="Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.SnapIot.OOPS.EqualsHashcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.SnapIot.String.Palindrome" />
       <module name="Algorithms" />
@@ -290,6 +347,16 @@
         </pattern>
       </extension>
     </configuration>
+    <configuration name="PrimitiveEqual" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.SnapIot.OOPS.EqualsHashcode.PrimitiveEqual" />
+      <module name="Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.SnapIot.OOPS.EqualsHashcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.SnapIot.Numbers.Sum" />
       <module name="Algorithms" />
@@ -300,40 +367,19 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.SnapIot.OOPS.Overriding.Test" />
-      <module name="Algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.SnapIot.OOPS.Overriding.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="firstNonRepeatedCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.SnapIot.String.firstNonRepeatedCharacter" />
-      <module name="Algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.SnapIot.String.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
     <list>
+      <item itemvalue="Application.ObjectTest" />
+      <item itemvalue="Application.PrimitiveEqual" />
       <item itemvalue="Application.PalindromeNumber" />
-      <item itemvalue="Application.firstNonRepeatedCharacter" />
-      <item itemvalue="Application.Test" />
       <item itemvalue="Application.Palindrome" />
       <item itemvalue="Application.Sum" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrimitiveEqual" />
         <item itemvalue="Application.Sum" />
         <item itemvalue="Application.Palindrome" />
         <item itemvalue="Application.PalindromeNumber" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.firstNonRepeatedCharacter" />
       </list>
     </recent_temporary>
   </component>
@@ -350,6 +396,7 @@
       <workItem from="1531578045610" duration="10534000" />
       <workItem from="1531627914654" duration="4793000" />
       <workItem from="1531689942575" duration="12989000" />
+      <workItem from="1531971492767" duration="3352000" />
     </task>
     <servers />
   </component>
@@ -386,46 +433,47 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28316000" />
+    <option name="totallyTimeSpent" value="31668000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="125" y="171" width="1440" height="735" extended-state="0" />
+    <frame x="298" y="261" width="1440" height="735" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.3171206" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.3161876" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.18456884" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.39788198" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29305556" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29305556" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.2655642" />
-      <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.1943557" />
-      <window_info anchor="bottom" id="DB Execution Console" order="7" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Console" order="7" />
+      <window_info id="Job Explorer" order="2" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info id="Project Explorer" order="2" />
+      <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.1943557" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" id="BPMNPalette" order="3" />
       <window_info id="DB Browser" order="2" />
-      <window_info id="Job Explorer" order="2" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Console" order="7" />
+      <window_info id="Project Explorer" order="2" />
+      <window_info anchor="bottom" id="DB Execution Console" order="7" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -587,27 +635,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/LinkedLists/LinkList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/LinkedLists/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="11" column="22" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/Map/MapTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/SnapIot/LinkedLists/AppendTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -898,7 +925,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/SnapIot/Numbers/DecimalToBinary.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
+        <state relative-caret-position="255">
           <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -915,7 +942,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/SnapIot/String/NumberOfOcurrances.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
+        <state relative-caret-position="225">
           <caret line="15" column="33" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -925,19 +952,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/SnapIot/String/firstNonRepeatedCharacter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
+        <state relative-caret-position="525">
           <caret line="35" selection-start-line="35" selection-end-line="35" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#425#445#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/SnapIot/OOPS/Overriding/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="526">
-          <caret line="64" column="1" lean-forward="true" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
+        <state relative-caret-position="960">
+          <caret line="64" column="1" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
           <folding>
             <element signature="e#76#77#0" expanded="true" />
             <element signature="e#116#117#0" expanded="true" />
@@ -947,15 +973,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/SnapIot/Numbers/PalindromeNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="11" column="49" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="49" />
+        <state relative-caret-position="165">
+          <caret line="11" column="49" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="49" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/SnapIot/String/Palindrome.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
-          <caret line="23" column="57" lean-forward="true" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
+          <caret line="23" column="57" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
         </state>
       </provider>
     </entry>
@@ -963,6 +989,44 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/OOPS/EqualsHashcode/PrimitiveEqual.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/OOPS/EqualsHashcode/ObjectTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="70" column="9" selection-start-line="70" selection-start-column="9" selection-end-line="70" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/OOPS/EqualsHashcode/Contact.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="58" column="31" selection-start-line="58" selection-start-column="31" selection-end-line="58" selection-end-column="31" />
+          <folding>
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#209#210#0" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
+            <element signature="e#329#330#0" expanded="true" />
+            <element signature="e#356#357#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#428#429#0" expanded="true" />
+            <element signature="e#463#464#0" expanded="true" />
+            <element signature="e#497#498#0" expanded="true" />
+            <element signature="e#548#549#0" expanded="true" />
+            <element signature="e#594#595#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
