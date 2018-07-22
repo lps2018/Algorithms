@@ -2,15 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="915dc13f-bdec-4838-9f36-c6d599deb733" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Singleton2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/SnapIot/OOPS/ObjectCreation/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/SnapIot/OOPS/ObjectCreation/ObjectCreation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/SnapIot/String/OverridingString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/NumberFormatE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/SystemExit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/throwEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GarbageCollection/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/SnapIot/OOPS/Wrapper/Autoboxing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/SnapIot/OOPS/Wrapper/Unboxing.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/OOPS/ObjectCreation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/OOPS/ObjectCreation.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,67 +28,56 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TestNewInstance.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/SnapIot/OOPS/NewInstance/TestNewInstance.java">
+      <file leaf-file-name="Autoboxing.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/SnapIot/OOPS/Wrapper/Autoboxing.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="47" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="11" selection-end-column="78" />
+            <state relative-caret-position="150">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Employee.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/SnapIot/OOPS/ObjectCreation/Employee.java">
+      <file leaf-file-name="Unboxing.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/SnapIot/OOPS/Wrapper/Unboxing.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="21" column="24" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="24" />
-              <folding>
-                <element signature="e#211#212#0" expanded="true" />
-                <element signature="e#238#239#0" expanded="true" />
-                <element signature="e#277#278#0" expanded="true" />
-                <element signature="e#309#310#0" expanded="true" />
-                <element signature="e#354#355#0" expanded="true" />
-                <element signature="e#407#408#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="75">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ObjectCreation.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/SnapIot/OOPS/ObjectCreation/ObjectCreation.java">
+      <file leaf-file-name="throwEx.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Exception/throwEx.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="47" column="60" selection-start-line="47" selection-start-column="60" selection-end-line="47" selection-end-column="60" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="90">
+              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Singleton.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DesignPatterns/Singleton.java">
+      <file leaf-file-name="NumberFormatE.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Exception/NumberFormatE.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+            <state relative-caret-position="195">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Singleton2.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/DesignPatterns/Singleton2.java">
+      <file leaf-file-name="SystemExit.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Exception/SystemExit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="14" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="14" />
+            <state relative-caret-position="135">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DesignPatterns/Test.java">
+      <file leaf-file-name="Student.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/GarbageCollection/Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="52" lean-forward="true" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+            <state relative-caret-position="123">
+              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -111,8 +98,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/SnapIot/Tree/PrintingTree.java" />
-        <option value="$PROJECT_DIR$/src/com/SnapIot/Map/Map.java" />
         <option value="$PROJECT_DIR$/src/com/SnapIot/Map/MapObject.java" />
         <option value="$PROJECT_DIR$/src/com/SnapIot/Map/MapTest.java" />
         <option value="$PROJECT_DIR$/src/com/SnapIot/Map/HashMap.java" />
@@ -157,6 +142,13 @@
         <option value="$PROJECT_DIR$/src/DesignPatterns/Singleton.java" />
         <option value="$PROJECT_DIR$/src/DesignPatterns/Singleton2.java" />
         <option value="$PROJECT_DIR$/src/DesignPatterns/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/SnapIot/OOPS/Wrapper/Autoboxing.java" />
+        <option value="$PROJECT_DIR$/src/com/SnapIot/OOPS/Wrapper/Unboxing.java" />
+        <option value="$PROJECT_DIR$/src/Exception/throwEx.java" />
+        <option value="$PROJECT_DIR$/src/Exception/NumberFormatE.java" />
+        <option value="$PROJECT_DIR$/src/Exception/SystemExit.java" />
+        <option value="$PROJECT_DIR$/src/GarbageCollection/ObjectEligibleForGc.java" />
+        <option value="$PROJECT_DIR$/src/GarbageCollection/Student.java" />
       </list>
     </option>
   </component>
@@ -170,8 +162,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="377" />
-    <option name="y" value="227" />
+    <option name="x" value="107" />
+    <option name="y" value="74" />
     <option name="width" value="1440" />
     <option name="height" value="735" />
   </component>
@@ -199,8 +191,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -216,46 +206,24 @@
             <path>
               <item name="Algorithms" type="58d84e3e:PackageViewProjectNode" />
               <item name="Algorithms" type="616d4139:PackageViewModuleNode" />
-              <item name="com.SnapIot" type="1f31426a:PackageElementNode" />
-              <item name="OOPS" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="Algorithms" type="58d84e3e:PackageViewProjectNode" />
-              <item name="Algorithms" type="616d4139:PackageViewModuleNode" />
-              <item name="com.SnapIot" type="1f31426a:PackageElementNode" />
-              <item name="OOPS" type="1f31426a:PackageElementNode" />
-              <item name="NewInstance" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="Algorithms" type="58d84e3e:PackageViewProjectNode" />
-              <item name="Algorithms" type="616d4139:PackageViewModuleNode" />
-              <item name="com.SnapIot" type="1f31426a:PackageElementNode" />
-              <item name="OOPS" type="1f31426a:PackageElementNode" />
-              <item name="NewInstance" type="1f31426a:PackageElementNode" />
-              <item name="TestNewInstance.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="Algorithms" type="58d84e3e:PackageViewProjectNode" />
-              <item name="Algorithms" type="616d4139:PackageViewModuleNode" />
-              <item name="com.SnapIot" type="1f31426a:PackageElementNode" />
-              <item name="OOPS" type="1f31426a:PackageElementNode" />
-              <item name="ObjectCreation" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="Algorithms" type="58d84e3e:PackageViewProjectNode" />
-              <item name="Algorithms" type="616d4139:PackageViewModuleNode" />
-              <item name="com.SnapIot" type="1f31426a:PackageElementNode" />
-              <item name="String" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="Algorithms" type="58d84e3e:PackageViewProjectNode" />
-              <item name="Algorithms" type="616d4139:PackageViewModuleNode" />
               <item name="DesignPatterns" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Algorithms" type="616d4139:PackageViewModuleNode" />
+              <item name="Exception" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Algorithms" type="616d4139:PackageViewModuleNode" />
+              <item name="GarbageCollection" type="1f31426a:PackageElementNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -283,13 +251,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="ObjectCreation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.SnapIot.OOPS.ObjectCreation.ObjectCreation" />
+  <component name="RunManager" selected="Application.Student">
+    <configuration name="Autoboxing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.SnapIot.OOPS.Wrapper.Autoboxing" />
       <module name="Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.SnapIot.OOPS.ObjectCreation.*" />
+          <option name="PATTERN" value="com.SnapIot.OOPS.Wrapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="NumberFormatE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exception.NumberFormatE" />
+      <module name="Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -304,61 +282,51 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="OverridingString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.SnapIot.String.OverridingString" />
+    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GarbageCollection.Student" />
       <module name="Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.SnapIot.String.*" />
+          <option name="PATTERN" value="GarbageCollection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="PrimitiveEqual" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.SnapIot.OOPS.EqualsHashcode.PrimitiveEqual" />
+    <configuration name="SystemExit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exception.SystemExit" />
       <module name="Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.SnapIot.OOPS.EqualsHashcode.*" />
+          <option name="PATTERN" value="Exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.SnapIot.Numbers.Sum" />
+    <configuration name="throwEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exception.throwEx" />
       <module name="Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.SnapIot.Numbers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DesignPatterns.Test" />
-      <module name="Algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DesignPatterns.*" />
+          <option name="PATTERN" value="Exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <list>
       <item itemvalue="Application.ObjectTest" />
-      <item itemvalue="Application.PrimitiveEqual" />
-      <item itemvalue="Application.Sum" />
-      <item itemvalue="Application.OverridingString" />
-      <item itemvalue="Application.ObjectCreation" />
-      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Autoboxing" />
+      <item itemvalue="Application.throwEx" />
+      <item itemvalue="Application.NumberFormatE" />
+      <item itemvalue="Application.SystemExit" />
+      <item itemvalue="Application.Student" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.ObjectCreation" />
-        <item itemvalue="Application.OverridingString" />
-        <item itemvalue="Application.PrimitiveEqual" />
-        <item itemvalue="Application.Sum" />
+        <item itemvalue="Application.Student" />
+        <item itemvalue="Application.SystemExit" />
+        <item itemvalue="Application.NumberFormatE" />
+        <item itemvalue="Application.throwEx" />
+        <item itemvalue="Application.Autoboxing" />
       </list>
     </recent_temporary>
   </component>
@@ -376,7 +344,9 @@
       <workItem from="1531627914654" duration="4793000" />
       <workItem from="1531689942575" duration="12989000" />
       <workItem from="1531971492767" duration="3668000" />
-      <workItem from="1532176815557" duration="6204000" />
+      <workItem from="1532176815557" duration="7229000" />
+      <workItem from="1532230687615" duration="78000" />
+      <workItem from="1532231065682" duration="1295000" />
     </task>
     <servers />
   </component>
@@ -413,10 +383,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38188000" />
+    <option name="totallyTimeSpent" value="40586000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="377" y="227" width="1440" height="735" extended-state="0" />
+    <frame x="107" y="74" width="1440" height="735" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -427,12 +398,12 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28744328" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.408472" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29305556" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29305556" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -614,48 +585,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/Tree/PrintingTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/LinkedLists/AddnodeMiddle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/LinkedLists/AddNodeEnd.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/Map/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/LinkedLists/LinkList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/SnapIot/Map/MapObject.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -873,10 +802,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="915">
           <caret line="64" column="1" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
-          <folding>
-            <element signature="e#76#77#0" expanded="true" />
-            <element signature="e#116#117#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -919,9 +844,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="59" column="41" selection-start-line="59" selection-start-column="41" selection-end-line="59" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -932,17 +854,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/OOPS/ObjectCreation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#100#101#0" expanded="true" />
-            <element signature="e#145#146#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/OOPS/ObjectCreation.java" />
     <entry file="file://$PROJECT_DIR$/src/com/SnapIot/OOPS/NewInstance/TestNewInstance.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -954,14 +866,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="291">
           <caret line="21" column="24" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="24" />
-          <folding>
-            <element signature="e#211#212#0" expanded="true" />
-            <element signature="e#238#239#0" expanded="true" />
-            <element signature="e#277#278#0" expanded="true" />
-            <element signature="e#309#310#0" expanded="true" />
-            <element signature="e#354#355#0" expanded="true" />
-            <element signature="e#407#408#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -969,9 +873,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="282">
           <caret line="47" column="60" selection-start-line="47" selection-start-column="60" selection-end-line="47" selection-end-column="60" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -992,7 +893,49 @@
     <entry file="file://$PROJECT_DIR$/src/DesignPatterns/Singleton2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="19" column="14" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="14" />
+          <caret line="19" column="12" lean-forward="true" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/OOPS/Wrapper/Autoboxing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/OOPS/Wrapper/Unboxing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exception/throwEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exception/NumberFormatE.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exception/SystemExit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GarbageCollection/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
         </state>
       </provider>
     </entry>
