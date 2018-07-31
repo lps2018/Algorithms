@@ -10,7 +10,7 @@ public class StringReversal
     public static void main(String[] args) {
 
         String string = "kvpdddddddatty";
-        Character c = null;
+       // Character c = null;
         char[] chars = string.toCharArray();
         int length = string.length();
         int start = 0;
@@ -26,9 +26,9 @@ public class StringReversal
 
         }
 
-       /* for (char c : chars) {
+        for (char c : chars) {
             System.out.print(c);
-        }*/
+        }
 
 
         HashMap<Character, Integer> map = new HashMap<Character, Integer>();
@@ -50,7 +50,7 @@ public class StringReversal
 
       map.forEach((k, v) ->{
           if (v > 1){
-              System.out.println(k);
+             // System.out.println(k);
           }
       });
 
@@ -61,7 +61,7 @@ public class StringReversal
           }
       });
 
-        System.out.println(atomicInteger.get());
+       // System.out.println(atomicInteger.get());
 
 
     }

@@ -33,10 +33,13 @@ public class HighestOccuredNumber {
            {
 
             atomicInteger.set(v);
+               System.out.println(atomicInteger.get());
+               System.out.println(k);
            }
         });
 
-        System.out.println(atomicInteger.get());
+
+
 
     }
 }
