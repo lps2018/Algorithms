@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="915dc13f-bdec-4838-9f36-c6d599deb733" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Exception/ThrowExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/SnapIot/String/LongestPalindromeFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/SnapIot/Common/StringReverseal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/SnapIot/Static/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/SnapIot/Static/StaticBlockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/SnapIot/Static/Test1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/Trials/StringReversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/Trials/StringReversal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/String/Solved/HighestOccuredNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/String/Solved/HighestOccuredNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Trials/StringReversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Trials/StringReversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/String/Solved/CountOccurrenceOfCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/SnapIot/String/Solved/CountOccurrenceOfCharacter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/String/Solved/HighestOccuredNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/SnapIot/String/Solved/HighestOccuredNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/AbstractInterface/bofa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/AbstractInterface/bofa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/AbstractInterface/chase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/AbstractInterface/chase.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,41 +28,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CountOccurrenceOfCharacter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/SnapIot/String/Solved/CountOccurrenceOfCharacter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Fib.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Trials/Fib.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="33" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LongestPalindromeFinder.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/SnapIot/String/LongestPalindromeFinder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="563">
-              <caret line="50" column="5" selection-start-line="39" selection-start-column="3" selection-end-line="50" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="SystemExit.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Exception/SystemExit.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -77,11 +46,75 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ThrowExample.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ThrowExample.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Exception/ThrowExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+            <state relative-caret-position="480">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StringReverseal.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/SnapIot/Common/StringReverseal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Car.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/SnapIot/Static/Car.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="145">
+              <caret line="45" column="5" lean-forward="true" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+              <folding>
+                <element signature="e#374#375#0" expanded="true" />
+                <element signature="e#421#422#0" expanded="true" />
+                <element signature="e#452#453#0" expanded="true" />
+                <element signature="e#479#480#0" expanded="true" />
+                <element signature="e#519#520#0" expanded="true" />
+                <element signature="e#551#552#0" expanded="true" />
+                <element signature="e#584#585#0" expanded="true" />
+                <element signature="e#613#614#0" expanded="true" />
+                <element signature="e#657#658#0" expanded="true" />
+                <element signature="e#693#694#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/SnapIot/Static/Test1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="6" lean-forward="true" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+              <folding>
+                <element signature="e#653#654#0" expanded="true" />
+                <element signature="e#698#699#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="firstNonRepeatedCharacter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/SnapIot/String/firstNonRepeatedCharacter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="142">
+              <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Palindrome.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/SnapIot/String/Palindrome.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="413">
+              <caret line="43" column="60" selection-start-line="43" selection-start-column="46" selection-end-line="43" selection-end-column="64" />
             </state>
           </provider>
         </entry>
@@ -89,32 +122,8 @@
       <file leaf-file-name="StringReversal.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Trials/StringReversal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HighestOccuredNumber.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/SnapIot/String/Solved/HighestOccuredNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="41" selection-start-line="41" selection-end-line="41" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FirstNonRepeatedCharacter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/SnapIot/String/Solved/FirstNonRepeatedCharacter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="11" column="69" selection-start-line="9" selection-start-column="7" selection-end-line="11" selection-end-column="69" />
+            <state relative-caret-position="435">
+              <caret line="29" column="16" lean-forward="true" selection-start-line="28" selection-start-column="7" selection-end-line="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -143,12 +152,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/SnapIot/Interface/Animal.java" />
-        <option value="$PROJECT_DIR$/src/com/SnapIot/Interface/mammals.java" />
-        <option value="$PROJECT_DIR$/src/com/SnapIot/Interface/InterfaceTest.java" />
-        <option value="$PROJECT_DIR$/src/com/SnapIot/Abstract/Employee.java" />
-        <option value="$PROJECT_DIR$/src/com/SnapIot/AbstractInterface/InterfaceDemo2.java" />
-        <option value="$PROJECT_DIR$/src/com/SnapIot/AbstractInterface/AbstractDemo.java" />
         <option value="$PROJECT_DIR$/src/com/SnapIot/Numbers/SwapVariables.java" />
         <option value="$PROJECT_DIR$/src/com/SnapIot/Numbers/Armstrong.java" />
         <option value="$PROJECT_DIR$/src/com/SnapIot/Numbers/FibanocciSeries.java" />
@@ -194,6 +197,12 @@
         <option value="$PROJECT_DIR$/src/Trials/StringReversal.java" />
         <option value="$PROJECT_DIR$/src/com/SnapIot/String/LongestPalindromeFinder.java" />
         <option value="$PROJECT_DIR$/src/Exception/ThrowExample.java" />
+        <option value="$PROJECT_DIR$/src/com/SnapIot/Common/StringReverseal.java" />
+        <option value="$PROJECT_DIR$/src/com/SnapIot/Static/StaticVariables.java" />
+        <option value="$PROJECT_DIR$/src/com/SnapIot/Static/Employee.java" />
+        <option value="$PROJECT_DIR$/src/com/SnapIot/Static/Test1.java" />
+        <option value="$PROJECT_DIR$/src/com/SnapIot/Static/StaticBlockDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/SnapIot/Static/Car.java" />
       </list>
     </option>
   </component>
@@ -206,11 +215,11 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="12" />
-    <option name="y" value="29" />
-    <option name="width" value="1920" />
-    <option name="height" value="800" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="168" />
+    <option name="y" value="241" />
+    <option name="width" value="1440" />
+    <option name="height" value="805" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -235,17 +244,19 @@
             <path>
               <item name="Algorithms" type="58d84e3e:PackageViewProjectNode" />
               <item name="Algorithms" type="616d4139:PackageViewModuleNode" />
-              <item name="Exception" type="1f31426a:PackageElementNode" />
+              <item name="com.SnapIot" type="1f31426a:PackageElementNode" />
+              <item name="Static" type="1f31426a:PackageElementNode" />
             </path>
             <path>
               <item name="Algorithms" type="58d84e3e:PackageViewProjectNode" />
               <item name="Algorithms" type="616d4139:PackageViewModuleNode" />
-              <item name="Trials" type="1f31426a:PackageElementNode" />
+              <item name="Exception" type="1f31426a:PackageElementNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -263,7 +274,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -291,33 +301,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ThrowExample">
-    <configuration name="CountOccurrenceOfCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.SnapIot.String.Solved.CountOccurrenceOfCharacter" />
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Employee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.SnapIot.Static.Employee" />
       <module name="Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.SnapIot.String.Solved.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="HighestOccuredNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.SnapIot.String.Solved.HighestOccuredNumber" />
-      <module name="Algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.SnapIot.String.Solved.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="LongestPalindromeFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.SnapIot.String.LongestPalindromeFinder" />
-      <module name="Algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.SnapIot.String.*" />
+          <option name="PATTERN" value="com.SnapIot.Static.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -332,12 +322,32 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="StringReversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Trials.StringReversal" />
+    <configuration name="StaticBlockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.SnapIot.Static.StaticBlockDemo" />
       <module name="Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Trials.*" />
+          <option name="PATTERN" value="com.SnapIot.Static.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="StringReverseal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.SnapIot.Common.StringReverseal" />
+      <module name="Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.SnapIot.Common.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.SnapIot.Static.Test" />
+      <module name="Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.SnapIot.Static.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -354,19 +364,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.ObjectTest" />
-      <item itemvalue="Application.StringReversal" />
-      <item itemvalue="Application.HighestOccuredNumber" />
-      <item itemvalue="Application.CountOccurrenceOfCharacter" />
-      <item itemvalue="Application.LongestPalindromeFinder" />
       <item itemvalue="Application.ThrowExample" />
+      <item itemvalue="Application.StringReverseal" />
+      <item itemvalue="Application.Employee" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.StaticBlockDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.StaticBlockDemo" />
+        <item itemvalue="Application.Employee" />
+        <item itemvalue="Application.StringReverseal" />
         <item itemvalue="Application.ThrowExample" />
-        <item itemvalue="Application.LongestPalindromeFinder" />
-        <item itemvalue="Application.StringReversal" />
-        <item itemvalue="Application.CountOccurrenceOfCharacter" />
-        <item itemvalue="Application.HighestOccuredNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -388,7 +398,8 @@
       <workItem from="1532230687615" duration="78000" />
       <workItem from="1532231065682" duration="6414000" />
       <workItem from="1532399228891" duration="11261000" />
-      <workItem from="1533012820854" duration="873000" />
+      <workItem from="1533012820854" duration="1652000" />
+      <workItem from="1538233048842" duration="10780000" />
     </task>
     <servers />
   </component>
@@ -425,10 +436,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57839000" />
+    <option name="totallyTimeSpent" value="69398000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="807" extended-state="6" />
+    <frame x="168" y="241" width="1440" height="805" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -440,7 +451,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.17189632" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36388507" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
@@ -451,21 +462,21 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39976415" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39883268" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="DB Execution Console" order="7" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Console" order="7" />
+      <window_info id="Job Explorer" order="2" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.1943557" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info id="Project Explorer" order="2" />
+      <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.1943557" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" id="BPMNPalette" order="3" />
       <window_info id="DB Browser" order="2" />
-      <window_info id="Job Explorer" order="2" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Console" order="7" />
+      <window_info id="Project Explorer" order="2" />
+      <window_info anchor="bottom" id="DB Execution Console" order="7" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -585,8 +596,26 @@
           <properties />
           <option name="timeStamp" value="76" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/SnapIot/Common/StringReverseal.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/SnapIot/Common/StringReverseal.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/SnapIot/Common/StringReverseal.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="77" />
+      <option name="time" value="85" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
@@ -639,34 +668,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/Numbers/SwapVariables.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/LinkedLists/AddNodeBeginning.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/Sorting/BubbleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/Numbers/PrimeNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/SnapIot/Numbers/ReverseNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -913,23 +914,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/String/Palindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="23" column="57" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/String/firstNonRepeatedCharacter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="10" column="33" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/SnapIot/String/Solved/FirstNonRepeatedCharacter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -967,19 +951,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Trials/StringReversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/SnapIot/String/LongestPalindromeFinder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="563">
+        <state relative-caret-position="750">
           <caret line="50" column="5" selection-start-line="39" selection-start-column="3" selection-end-line="50" selection-end-column="5" />
         </state>
       </provider>
@@ -987,7 +961,7 @@
     <entry file="file://$PROJECT_DIR$/src/Exception/SystemExit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
@@ -1000,8 +974,84 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Exception/ThrowExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        <state relative-caret-position="480">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Trials/StringReversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="16" lean-forward="true" selection-start-line="28" selection-start-column="7" selection-end-line="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/String/Palindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="43" column="60" selection-start-line="43" selection-start-column="46" selection-end-line="43" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/String/firstNonRepeatedCharacter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/Common/StringReverseal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/Static/StaticBlockDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#442#443#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/Static/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="6" lean-forward="true" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+          <folding>
+            <element signature="e#653#654#0" expanded="true" />
+            <element signature="e#698#699#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/Static/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="45" column="5" lean-forward="true" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+          <folding>
+            <element signature="e#374#375#0" expanded="true" />
+            <element signature="e#421#422#0" expanded="true" />
+            <element signature="e#452#453#0" expanded="true" />
+            <element signature="e#479#480#0" expanded="true" />
+            <element signature="e#519#520#0" expanded="true" />
+            <element signature="e#551#552#0" expanded="true" />
+            <element signature="e#584#585#0" expanded="true" />
+            <element signature="e#613#614#0" expanded="true" />
+            <element signature="e#657#658#0" expanded="true" />
+            <element signature="e#693#694#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
