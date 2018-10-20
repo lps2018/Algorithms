@@ -2,32 +2,194 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="915dc13f-bdec-4838-9f36-c6d599deb733" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/SnapIot/Array/SecondLargest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/SnapIot/Common/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/SnapIot/Common/Bank1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/SnapIot/Common/OverrideExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/SnapIot/Common/SecondLargestElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/SnapIot/ForLoop/BaseLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/SnapIot/ForLoop/CommandLineArgs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/SnapIot/ForLoop/ContinueDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/SnapIot/ForLoop/EnumDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/SnapIot/ForLoop/FindCommon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/SnapIot/ForLoop/IKMProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/SnapIot/ForLoop/IKMTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/SnapIot/ForLoop/IfBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/SnapIot/ForLoop/IkmTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/SnapIot/ForLoop/JavaClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/SnapIot/ForLoop/MathOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/SnapIot/ForLoop/NestedIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/SnapIot/ForLoop/NumberTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/SnapIot/ForLoop/SimplePyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/SnapIot/ForLoop/StringBuilderDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/SnapIot/ForLoop/Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/SnapIot/ForLoop/Triangle2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/SnapIot/String/LongestCommonSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Trials/ArrayList/ArrayListSorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Trials/Common/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Trials/Common/removeBigNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Trials/LinkedLists/LinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Trials/String/CountCharacters/CountCharacters1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Trials/String/CountCharacters/DuplicateWordsInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Trials/String/ValidParenthesis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Trials/String/WordCounter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/AbstractInterface/bofa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/AbstractInterface/bofa.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/AbstractInterface/chase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/AbstractInterface/chase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/Abstract/Base.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/Abstract/Derived.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/Abstract/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/AbstractInterface/AbstractDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/AbstractInterface/BankInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/AbstractInterface/InterfaceDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/AbstractInterface/InterfaceDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/AbstractInterface/bank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/AbstractInterface/bofa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/AbstractInterface/chase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/Array/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/Array/MissingNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/Array/ReverseArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/Array/SecondLargest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/Array/TwoDArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/Common/Bank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/Common/Bank1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/Common/Chase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/Common/Chase1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/Common/Citi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/Common/Contact.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/Common/OverrideExamples.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/Common/SecondLargestElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/Common/StringReverseal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/Common/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/Common/Test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/ForLoop/BaseLogger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/ForLoop/CommandLineArgs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/ForLoop/ContinueDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/ForLoop/EnumDemo$Report.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/ForLoop/EnumDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/ForLoop/FindCommon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/ForLoop/IKMProcessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/ForLoop/IKMTest2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/ForLoop/IfBlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/ForLoop/IkmTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/ForLoop/JavaClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/ForLoop/MathOperations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/ForLoop/NestedIf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/ForLoop/NumberTriangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/ForLoop/Quadrilateral.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/ForLoop/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/ForLoop/SimplePyramid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/ForLoop/StringBuilderDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/ForLoop/Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/ForLoop/Triangle2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/Interface/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/Interface/InterfaceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/Interface/NewFeatures/Interface1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/Interface/NewFeatures/Interface2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/Interface/NewFeatures/MyClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/Interface/mammals.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/LinkedLists/AddNodeBeginning.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/LinkedLists/AddNodeEnd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/LinkedLists/AddnodeMiddle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/LinkedLists/AppendTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/LinkedLists/LinkList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/LinkedLists/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/Map/HashMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/Map/MapObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/Map/MapTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/Numbers/Armstrong.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/Numbers/DecimalToBinary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/Numbers/FibanocciSeries.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/Numbers/PalindromeNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/Numbers/PrimeNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/Numbers/ReverseNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/Numbers/Sum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/Numbers/SwapVariables.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/OOPS/EqualsHashcode/Contact.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/OOPS/EqualsHashcode/ObjectTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/OOPS/EqualsHashcode/PrimitiveEqual.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/OOPS/NewInstance/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/OOPS/NewInstance/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/OOPS/NewInstance/TestNewInstance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/OOPS/ObjectCreation/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/OOPS/ObjectCreation/ObjectCreation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/OOPS/Overriding/Child.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/OOPS/Overriding/Parent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/OOPS/Overriding/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/OOPS/Wrapper/Autoboxing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/OOPS/Wrapper/Unboxing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/Search/LinearSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/Sorting/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/Static/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/Static/StaticBlockDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/Static/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/Static/Test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/String/LongestCommonSubstring.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/String/LongestPalindromeFinder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/String/NumberOfOcurrances.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/String/OverridingString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/String/Palindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/String/Solved/CountOccurrenceOfCharacter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/String/Solved/FirstNonRepeatedCharacter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/String/Solved/HighestOccuredNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/String/firstNonRepeatedCharacter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/com/SnapIot/Tree/PrintingTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/Abstract/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/Abstract/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/AbstractInterface/AbstractDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/AbstractInterface/AbstractDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/AbstractInterface/BankInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/AbstractInterface/BankInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/AbstractInterface/InterfaceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/AbstractInterface/InterfaceDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/AbstractInterface/InterfaceDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/AbstractInterface/InterfaceDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/Array/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/Array/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/Array/MissingNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/Array/MissingNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/Array/ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/Array/ReverseArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/Array/SecondLargest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/Array/SecondLargest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/Array/TwoDArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/Array/TwoDArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/Common/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/Common/Bank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/Common/Bank1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/Common/Bank1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/Common/OverrideExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/Common/OverrideExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/Common/SecondLargestElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/Common/SecondLargestElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/Common/StringReverseal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/Common/StringReverseal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/ForLoop/BaseLogger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/ForLoop/BaseLogger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/ForLoop/CommandLineArgs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/ForLoop/CommandLineArgs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/ForLoop/ContinueDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/ForLoop/ContinueDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/ForLoop/EnumDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/ForLoop/EnumDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/ForLoop/FindCommon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/ForLoop/FindCommon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/ForLoop/IKMProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/ForLoop/IKMProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/ForLoop/IKMTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/ForLoop/IKMTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/ForLoop/IfBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/ForLoop/IfBlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/ForLoop/IkmTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/ForLoop/IkmTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/ForLoop/JavaClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/ForLoop/JavaClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/ForLoop/MathOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/ForLoop/MathOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/ForLoop/NestedIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/ForLoop/NestedIf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/ForLoop/NumberTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/ForLoop/NumberTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/ForLoop/SimplePyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/ForLoop/SimplePyramid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/ForLoop/StringBuilderDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/ForLoop/StringBuilderDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/ForLoop/Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/ForLoop/Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/ForLoop/Triangle2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/ForLoop/Triangle2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/Interface/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/Interface/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/Interface/InterfaceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/Interface/InterfaceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/Interface/NewFeatures/Interface1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/Interface/NewFeatures/Interface1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/Interface/NewFeatures/Interface2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/Interface/NewFeatures/Interface2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/Interface/NewFeatures/MyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/Interface/NewFeatures/MyClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/Interface/mammals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/Interface/mammals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/LinkedLists/AddNodeBeginning.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/LinkedLists/AddNodeBeginning.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/LinkedLists/AddNodeEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/LinkedLists/AddNodeEnd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/LinkedLists/AddnodeMiddle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/LinkedLists/AddnodeMiddle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/LinkedLists/AppendTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/LinkedLists/AppendTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/LinkedLists/LinkList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/LinkedLists/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/LinkedLists/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/Map/HashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/Map/HashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/Map/MapObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/Map/MapObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/Map/MapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/Map/MapTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/Numbers/Armstrong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/Numbers/Armstrong.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/Numbers/DecimalToBinary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/Numbers/DecimalToBinary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/Numbers/FibanocciSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/Numbers/FibanocciSeries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/Numbers/PalindromeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/Numbers/PalindromeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/Numbers/PrimeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/Numbers/PrimeNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/Numbers/ReverseNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/Numbers/ReverseNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/Numbers/Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/Numbers/Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/Numbers/SwapVariables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/Numbers/SwapVariables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/OOPS/EqualsHashcode/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/OOPS/EqualsHashcode/Contact.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/OOPS/EqualsHashcode/ObjectTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/OOPS/EqualsHashcode/ObjectTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/OOPS/EqualsHashcode/PrimitiveEqual.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/OOPS/EqualsHashcode/PrimitiveEqual.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/OOPS/NewInstance/TestNewInstance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/OOPS/NewInstance/TestNewInstance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/OOPS/ObjectCreation/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/OOPS/ObjectCreation/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/OOPS/ObjectCreation/ObjectCreation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/OOPS/ObjectCreation/ObjectCreation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/OOPS/Overriding/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/OOPS/Overriding/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/OOPS/Wrapper/Autoboxing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/OOPS/Wrapper/Autoboxing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/OOPS/Wrapper/Unboxing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/OOPS/Wrapper/Unboxing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/Search/LinearSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/Search/LinearSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/Sorting/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/Sorting/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/Static/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/Static/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/Static/StaticBlockDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/Static/StaticBlockDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/Static/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/Static/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/String/LongestCommonSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/String/LongestCommonSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/String/LongestPalindromeFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/String/LongestPalindromeFinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/String/NumberOfOcurrances.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/String/NumberOfOcurrances.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/String/OverridingString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/String/OverridingString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/String/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/String/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/String/Solved/CountOccurrenceOfCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/String/Solved/CountOccurrenceOfCharacter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/String/Solved/FirstNonRepeatedCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/String/Solved/FirstNonRepeatedCharacter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/String/Solved/HighestOccuredNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/String/Solved/HighestOccuredNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/String/firstNonRepeatedCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/String/firstNonRepeatedCharacter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SnapIot/Tree/PrintingTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Trials/Tree/PrintingTree.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,20 +209,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="NestedIf.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/SnapIot/ForLoop/NestedIf.java">
+      <file leaf-file-name="Example.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/Trials/Common/Example.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IfBlock.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/SnapIot/ForLoop/IfBlock.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+            <state relative-caret-position="208">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -86,15 +242,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/SnapIot/OOPS/Wrapper/Unboxing.java" />
-        <option value="$PROJECT_DIR$/src/Exception/throwEx.java" />
-        <option value="$PROJECT_DIR$/src/Exception/NumberFormatE.java" />
-        <option value="$PROJECT_DIR$/src/Exception/SystemExit.java" />
-        <option value="$PROJECT_DIR$/src/GarbageCollection/ObjectEligibleForGc.java" />
-        <option value="$PROJECT_DIR$/src/GarbageCollection/Student.java" />
-        <option value="$PROJECT_DIR$/src/staticDemo/Init.java" />
-        <option value="$PROJECT_DIR$/src/staticDemo/Snippet.java" />
-        <option value="$PROJECT_DIR$/src/com/SnapIot/AbstractInterface/BankInterface.java" />
         <option value="$PROJECT_DIR$/src/com/SnapIot/AbstractInterface/InterfaceDemo.java" />
         <option value="$PROJECT_DIR$/src/com/SnapIot/Interface/NewFeatures/Interface2.java" />
         <option value="$PROJECT_DIR$/src/com/SnapIot/Interface/NewFeatures/Interface1.java" />
@@ -137,6 +284,15 @@
         <option value="$PROJECT_DIR$/src/com/SnapIot/ForLoop/MathOperations.java" />
         <option value="$PROJECT_DIR$/src/com/SnapIot/ForLoop/NestedIf.java" />
         <option value="$PROJECT_DIR$/src/com/SnapIot/ForLoop/IfBlock.java" />
+        <option value="$PROJECT_DIR$/src/com/SnapIot/String/ValidParenthesis.java" />
+        <option value="$PROJECT_DIR$/src/com/SnapIot/String/WordCounter.java" />
+        <option value="$PROJECT_DIR$/src/com/SnapIot/String/CountCharacters/CountCharacters1.java" />
+        <option value="$PROJECT_DIR$/src/com/SnapIot/String/CountCharacters/removeDuplicates.java" />
+        <option value="$PROJECT_DIR$/src/com/SnapIot/String/CountCharacters/DuplicateWordsInString.java" />
+        <option value="$PROJECT_DIR$/src/com/SnapIot/LinkedLists/LinkList.java" />
+        <option value="$PROJECT_DIR$/src/com/Trials/LinkedLists/LinkList.java" />
+        <option value="$PROJECT_DIR$/src/com/Trials/ArrayList/ArrayListSorting.java" />
+        <option value="$PROJECT_DIR$/src/com/Trials/Common/Example.java" />
       </list>
     </option>
   </component>
@@ -149,11 +305,11 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="171" />
-    <option name="y" value="113" />
-    <option name="width" value="1920" />
-    <option name="height" value="977" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="70" />
+    <option name="y" value="110" />
+    <option name="width" value="1440" />
+    <option name="height" value="797" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -164,7 +320,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -175,19 +330,19 @@
             <path>
               <item name="Algorithms" type="58d84e3e:PackageViewProjectNode" />
               <item name="Algorithms" type="616d4139:PackageViewModuleNode" />
-              <item name="com.SnapIot" type="1f31426a:PackageElementNode" />
+              <item name="com.Trials" type="1f31426a:PackageElementNode" />
             </path>
             <path>
               <item name="Algorithms" type="58d84e3e:PackageViewProjectNode" />
               <item name="Algorithms" type="616d4139:PackageViewModuleNode" />
-              <item name="com.SnapIot" type="1f31426a:PackageElementNode" />
-              <item name="Array" type="1f31426a:PackageElementNode" />
+              <item name="com.Trials" type="1f31426a:PackageElementNode" />
+              <item name="ArrayList" type="1f31426a:PackageElementNode" />
             </path>
             <path>
               <item name="Algorithms" type="58d84e3e:PackageViewProjectNode" />
               <item name="Algorithms" type="616d4139:PackageViewModuleNode" />
-              <item name="com.SnapIot" type="1f31426a:PackageElementNode" />
-              <item name="ForLoop" type="1f31426a:PackageElementNode" />
+              <item name="com.Trials" type="1f31426a:PackageElementNode" />
+              <item name="Common" type="1f31426a:PackageElementNode" />
             </path>
           </expand>
           <select />
@@ -209,6 +364,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -237,84 +393,82 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.IfBlock">
-    <configuration name="CommandLineArgs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.SnapIot.ForLoop.CommandLineArgs" />
+  <component name="RunManager" selected="Application.Example">
+    <configuration name="ArrayListSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Trials.ArrayList.ArrayListSorting" />
       <module name="Algorithms" />
-      <option name="PROGRAM_PARAMETERS" value="0, 1, 2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.SnapIot.ForLoop.*" />
+          <option name="PATTERN" value="com.Trials.ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="EnumDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.SnapIot.ForLoop.EnumDemo" />
+    <configuration name="CountCharacters1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Trials.String.CountCharacters.CountCharacters1" />
       <module name="Algorithms" />
-      <option name="PROGRAM_PARAMETERS" value="MNGRPT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.SnapIot.ForLoop.*" />
+          <option name="PATTERN" value="com.Trials.String.CountCharacters.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="IfBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.SnapIot.ForLoop.IfBlock" />
+    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Trials.Common.Example" />
       <module name="Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.SnapIot.ForLoop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="MathOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.SnapIot.ForLoop.MathOperations" />
-      <module name="Algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.SnapIot.ForLoop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="NestedIf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.SnapIot.ForLoop.NestedIf" />
-      <module name="Algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.SnapIot.ForLoop.*" />
+          <option name="PATTERN" value="com.Trials.Common.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration name="ObjectTest" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.SnapIot.OOPS.EqualsHashcode.ObjectTest" />
+      <option name="MAIN_CLASS_NAME" value="com.Trials.OOPS.EqualsHashcode.ObjectTest" />
       <module name="Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.SnapIot.OOPS.EqualsHashcode.*" />
+          <option name="PATTERN" value="com.Trials.OOPS.EqualsHashcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="RemoveDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.SnapIot.String.CountCharacters.RemoveDuplicates" />
+      <module name="Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Trials.String.CountCharacters.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="removeDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.SnapIot.String.CountCharacters.removeDuplicates" />
+      <module name="Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Trials.String.CountCharacters.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <list>
       <item itemvalue="Application.ObjectTest" />
-      <item itemvalue="Application.EnumDemo" />
-      <item itemvalue="Application.CommandLineArgs" />
-      <item itemvalue="Application.MathOperations" />
-      <item itemvalue="Application.NestedIf" />
-      <item itemvalue="Application.IfBlock" />
+      <item itemvalue="Application.CountCharacters1" />
+      <item itemvalue="Application.removeDuplicates" />
+      <item itemvalue="Application.RemoveDuplicates" />
+      <item itemvalue="Application.ArrayListSorting" />
+      <item itemvalue="Application.Example" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.IfBlock" />
-        <item itemvalue="Application.NestedIf" />
-        <item itemvalue="Application.MathOperations" />
-        <item itemvalue="Application.CommandLineArgs" />
-        <item itemvalue="Application.EnumDemo" />
+        <item itemvalue="Application.Example" />
+        <item itemvalue="Application.ArrayListSorting" />
+        <item itemvalue="Application.RemoveDuplicates" />
+        <item itemvalue="Application.removeDuplicates" />
+        <item itemvalue="Application.CountCharacters1" />
       </list>
     </recent_temporary>
   </component>
@@ -345,6 +499,8 @@
       <workItem from="1538956245729" duration="3150000" />
       <workItem from="1539438164904" duration="5329000" />
       <workItem from="1539445656394" duration="4327000" />
+      <workItem from="1539706492142" duration="3562000" />
+      <workItem from="1539880144403" duration="5860000" />
     </task>
     <servers />
   </component>
@@ -381,11 +537,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95124000" />
+    <option name="totallyTimeSpent" value="104546000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="76" y="75" width="1920" height="977" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="797" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -396,13 +551,14 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29678848" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.24896266" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25833333" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34444445" />
       <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32918397" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -413,7 +569,6 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.1943557" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32968536" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info id="Project Explorer" order="2" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -434,97 +589,97 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/SnapIot/Array/ReverseArray.java</url>
+          <url>file://$PROJECT_DIR$/src/com/Trials/Array/ReverseArray.java</url>
           <line>31</line>
           <properties />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/SnapIot/String/NumberOfOcurrances.java</url>
+          <url>file://$PROJECT_DIR$/src/com/Trials/String/NumberOfOcurrances.java</url>
           <line>15</line>
           <properties />
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/SnapIot/String/NumberOfOcurrances.java</url>
+          <url>file://$PROJECT_DIR$/src/com/Trials/String/NumberOfOcurrances.java</url>
           <line>19</line>
           <properties />
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/SnapIot/Numbers/PalindromeNumber.java</url>
+          <url>file://$PROJECT_DIR$/src/com/Trials/Numbers/PalindromeNumber.java</url>
           <line>11</line>
           <properties />
           <option name="timeStamp" value="33" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/SnapIot/Numbers/PalindromeNumber.java</url>
+          <url>file://$PROJECT_DIR$/src/com/Trials/Numbers/PalindromeNumber.java</url>
           <line>42</line>
           <properties />
           <option name="timeStamp" value="34" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/SnapIot/Numbers/PalindromeNumber.java</url>
+          <url>file://$PROJECT_DIR$/src/com/Trials/Numbers/PalindromeNumber.java</url>
           <line>50</line>
           <properties />
           <option name="timeStamp" value="36" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/SnapIot/OOPS/NewInstance/TestNewInstance.java</url>
+          <url>file://$PROJECT_DIR$/src/com/Trials/OOPS/NewInstance/TestNewInstance.java</url>
           <line>10</line>
           <properties />
           <option name="timeStamp" value="39" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/SnapIot/Numbers/DecimalToBinary.java</url>
+          <url>file://$PROJECT_DIR$/src/com/Trials/Numbers/DecimalToBinary.java</url>
           <line>34</line>
           <properties />
           <option name="timeStamp" value="57" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/SnapIot/Numbers/DecimalToBinary.java</url>
+          <url>file://$PROJECT_DIR$/src/com/Trials/Numbers/DecimalToBinary.java</url>
           <line>23</line>
           <properties />
           <option name="timeStamp" value="58" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/SnapIot/Numbers/DecimalToBinary.java</url>
+          <url>file://$PROJECT_DIR$/src/com/Trials/Numbers/DecimalToBinary.java</url>
           <line>24</line>
           <properties />
           <option name="timeStamp" value="59" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/SnapIot/Numbers/DecimalToBinary.java</url>
+          <url>file://$PROJECT_DIR$/src/com/Trials/Numbers/DecimalToBinary.java</url>
           <line>28</line>
           <properties />
           <option name="timeStamp" value="60" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/SnapIot/String/firstNonRepeatedCharacter.java</url>
+          <url>file://$PROJECT_DIR$/src/com/Trials/String/firstNonRepeatedCharacter.java</url>
           <line>45</line>
           <properties />
           <option name="timeStamp" value="61" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/SnapIot/String/firstNonRepeatedCharacter.java</url>
+          <url>file://$PROJECT_DIR$/src/com/Trials/String/firstNonRepeatedCharacter.java</url>
           <line>25</line>
           <properties />
           <option name="timeStamp" value="62" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/SnapIot/String/firstNonRepeatedCharacter.java</url>
+          <url>file://$PROJECT_DIR$/src/com/Trials/String/firstNonRepeatedCharacter.java</url>
           <line>29</line>
           <properties />
           <option name="timeStamp" value="63" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/SnapIot/Numbers/PalindromeNumber.java</url>
+          <url>file://$PROJECT_DIR$/src/com/Trials/Numbers/PalindromeNumber.java</url>
           <line>30</line>
           <properties />
           <option name="timeStamp" value="64" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/SnapIot/Numbers/PalindromeNumber.java</url>
+          <url>file://$PROJECT_DIR$/src/com/Trials/Numbers/PalindromeNumber.java</url>
           <line>32</line>
           <properties />
           <option name="timeStamp" value="65" />
@@ -536,85 +691,85 @@
           <option name="timeStamp" value="67" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/SnapIot/String/LongestPalindromeFinder.java</url>
+          <url>file://$PROJECT_DIR$/src/com/Trials/String/LongestPalindromeFinder.java</url>
           <line>25</line>
           <properties />
           <option name="timeStamp" value="76" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/SnapIot/Common/StringReverseal.java</url>
+          <url>file://$PROJECT_DIR$/src/com/Trials/Common/StringReverseal.java</url>
           <line>25</line>
           <properties />
           <option name="timeStamp" value="81" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/SnapIot/Common/StringReverseal.java</url>
+          <url>file://$PROJECT_DIR$/src/com/Trials/Common/StringReverseal.java</url>
           <line>22</line>
           <properties />
           <option name="timeStamp" value="82" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/SnapIot/Common/StringReverseal.java</url>
+          <url>file://$PROJECT_DIR$/src/com/Trials/Common/StringReverseal.java</url>
           <line>23</line>
           <properties />
           <option name="timeStamp" value="83" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/SnapIot/Common/OverrideExamples.java</url>
+          <url>file://$PROJECT_DIR$/src/com/Trials/Common/OverrideExamples.java</url>
           <line>23</line>
           <properties />
           <option name="timeStamp" value="85" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/SnapIot/Common/OverrideExamples.java</url>
+          <url>file://$PROJECT_DIR$/src/com/Trials/Common/OverrideExamples.java</url>
           <line>84</line>
           <properties />
           <option name="timeStamp" value="86" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/SnapIot/Common/SecondLargestElement.java</url>
+          <url>file://$PROJECT_DIR$/src/com/Trials/Common/SecondLargestElement.java</url>
           <line>20</line>
           <properties />
           <option name="timeStamp" value="87" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/SnapIot/Common/SecondLargestElement.java</url>
+          <url>file://$PROJECT_DIR$/src/com/Trials/Common/SecondLargestElement.java</url>
           <line>21</line>
           <properties />
           <option name="timeStamp" value="89" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/SnapIot/Common/SecondLargestElement.java</url>
+          <url>file://$PROJECT_DIR$/src/com/Trials/Common/SecondLargestElement.java</url>
           <line>22</line>
           <properties />
           <option name="timeStamp" value="90" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/SnapIot/ForLoop/Triangle2.java</url>
+          <url>file://$PROJECT_DIR$/src/com/Trials/ForLoop/Triangle2.java</url>
           <line>9</line>
           <properties />
           <option name="timeStamp" value="91" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/SnapIot/String/LongestCommonSubstring.java</url>
+          <url>file://$PROJECT_DIR$/src/com/Trials/String/LongestCommonSubstring.java</url>
           <line>10</line>
           <properties />
           <option name="timeStamp" value="94" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/SnapIot/String/LongestCommonSubstring.java</url>
+          <url>file://$PROJECT_DIR$/src/com/Trials/String/LongestCommonSubstring.java</url>
           <line>11</line>
           <properties />
           <option name="timeStamp" value="95" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/SnapIot/String/LongestCommonSubstring.java</url>
+          <url>file://$PROJECT_DIR$/src/com/Trials/String/LongestCommonSubstring.java</url>
           <line>12</line>
           <properties />
           <option name="timeStamp" value="96" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/SnapIot/String/LongestCommonSubstring.java</url>
+          <url>file://$PROJECT_DIR$/src/com/Trials/String/LongestCommonSubstring.java</url>
           <line>13</line>
           <properties />
           <option name="timeStamp" value="98" />
@@ -673,70 +828,7 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/AbstractInterface/BankInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="45" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/AbstractInterface/InterfaceDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/Interface/NewFeatures/Interface1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/Interface/NewFeatures/Interface2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/Interface/NewFeatures/MyClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/String/Solved/FirstNonRepeatedCharacter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="11" column="69" selection-start-line="9" selection-start-column="7" selection-end-line="11" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/String/Solved/HighestOccuredNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/String/Solved/CountOccurrenceOfCharacter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Trials/Fib.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="33" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/String/LongestPalindromeFinder.java">
+    <entry file="file://$PROJECT_DIR$/src/com/Trials/String/LongestPalindromeFinder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="750">
           <caret line="50" column="5" selection-start-line="39" selection-start-column="3" selection-end-line="50" selection-end-column="5" />
@@ -771,14 +863,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/String/Palindrome.java">
+    <entry file="file://$PROJECT_DIR$/src/com/Trials/String/Palindrome.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="645">
           <caret line="43" column="60" selection-start-line="43" selection-start-column="46" selection-end-line="43" selection-end-column="64" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/String/firstNonRepeatedCharacter.java">
+    <entry file="file://$PROJECT_DIR$/src/com/Trials/String/firstNonRepeatedCharacter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
@@ -788,70 +880,70 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/Static/StaticBlockDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/com/Trials/Static/StaticBlockDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/Static/Test1.java">
+    <entry file="file://$PROJECT_DIR$/src/com/Trials/Static/Test1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/Static/Car.java">
+    <entry file="file://$PROJECT_DIR$/src/com/Trials/Static/Car.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="780">
           <caret line="60" column="12" selection-start-line="60" selection-start-column="12" selection-end-line="60" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/Abstract/Employee.java">
+    <entry file="file://$PROJECT_DIR$/src/com/Trials/Abstract/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/OOPS/EqualsHashcode/ObjectTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/Trials/OOPS/EqualsHashcode/ObjectTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="16" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/OOPS/EqualsHashcode/Contact.java">
+    <entry file="file://$PROJECT_DIR$/src/com/Trials/OOPS/EqualsHashcode/Contact.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="258">
           <caret line="59" column="5" lean-forward="true" selection-start-line="55" selection-start-column="4" selection-end-line="59" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/Common/Bank.java">
+    <entry file="file://$PROJECT_DIR$/src/com/Trials/Common/Bank.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/Common/StringReverseal.java">
+    <entry file="file://$PROJECT_DIR$/src/com/Trials/Common/StringReverseal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/Common/Bank1.java">
+    <entry file="file://$PROJECT_DIR$/src/com/Trials/Common/Bank1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/Common/OverrideExamples.java">
+    <entry file="file://$PROJECT_DIR$/src/com/Trials/Common/OverrideExamples.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="945">
           <caret line="76" column="37" selection-start-line="76" selection-start-column="37" selection-end-line="76" selection-end-column="37" />
@@ -861,42 +953,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/Array/SecondLargest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/Trials/Array/SecondLargest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" selection-end-line="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/Common/SecondLargestElement.java">
+    <entry file="file://$PROJECT_DIR$/src/com/Trials/Common/SecondLargestElement.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/ForLoop/Triangle2.java">
+    <entry file="file://$PROJECT_DIR$/src/com/Trials/ForLoop/Triangle2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/ForLoop/NumberTriangle.java">
+    <entry file="file://$PROJECT_DIR$/src/com/Trials/ForLoop/NumberTriangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="13" selection-start-line="5" selection-start-column="8" selection-end-line="14" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/ForLoop/SimplePyramid.java">
+    <entry file="file://$PROJECT_DIR$/src/com/Trials/ForLoop/SimplePyramid.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/String/NumberOfOcurrances.java">
+    <entry file="file://$PROJECT_DIR$/src/com/Trials/String/NumberOfOcurrances.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
           <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
@@ -906,21 +998,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/String/OverridingString.java">
+    <entry file="file://$PROJECT_DIR$/src/com/Trials/String/OverridingString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/String/LongestCommonSubstring.java">
+    <entry file="file://$PROJECT_DIR$/src/com/Trials/String/LongestCommonSubstring.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="29" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/Array/BubbleSort.java">
+    <entry file="file://$PROJECT_DIR$/src/com/Trials/Array/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="65" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="65" />
@@ -935,7 +1027,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/ForLoop/FindCommon.java">
+    <entry file="file://$PROJECT_DIR$/src/com/Trials/ForLoop/FindCommon.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
@@ -945,7 +1037,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/ForLoop/IKMProcessor.java">
+    <entry file="file://$PROJECT_DIR$/src/com/Trials/ForLoop/IKMProcessor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
@@ -955,42 +1047,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/ForLoop/JavaClass.java">
+    <entry file="file://$PROJECT_DIR$/src/com/Trials/ForLoop/JavaClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/ForLoop/IKMTest2.java">
+    <entry file="file://$PROJECT_DIR$/src/com/Trials/ForLoop/IKMTest2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="39" lean-forward="true" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/ForLoop/ContinueDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/com/Trials/ForLoop/ContinueDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/ForLoop/StringBuilderDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/com/Trials/ForLoop/StringBuilderDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="2" lean-forward="true" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/ForLoop/Sum.java">
+    <entry file="file://$PROJECT_DIR$/src/com/Trials/ForLoop/Sum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/ForLoop/BaseLogger.java">
+    <entry file="file://$PROJECT_DIR$/src/com/Trials/ForLoop/BaseLogger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
@@ -1003,7 +1095,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/ForLoop/IkmTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/Trials/ForLoop/IkmTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
@@ -1013,14 +1105,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/ForLoop/EnumDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/com/Trials/ForLoop/EnumDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" column="115" lean-forward="true" selection-start-line="24" selection-start-column="115" selection-end-line="24" selection-end-column="115" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/ForLoop/MathOperations.java">
+    <entry file="file://$PROJECT_DIR$/src/com/Trials/ForLoop/MathOperations.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
@@ -1032,7 +1124,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/ForLoop/CommandLineArgs.java">
+    <entry file="file://$PROJECT_DIR$/src/com/Trials/ForLoop/CommandLineArgs.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
@@ -1043,17 +1135,86 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/ForLoop/NestedIf.java">
+    <entry file="file://$PROJECT_DIR$/src/com/Trials/ForLoop/NestedIf.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/SnapIot/ForLoop/IfBlock.java">
+    <entry file="file://$PROJECT_DIR$/src/com/Trials/ForLoop/IfBlock.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Trials/String/ValidParenthesis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Trials/String/WordCounter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Trials/String/CountCharacters/DuplicateWordsInString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Trials/LinkedLists/LinkList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="29" lean-forward="true" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Trials/LinkedLists/AddNodeBeginning.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Trials/Common/removeBigNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Trials/ArrayList/ArrayListSorting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Trials/String/CountCharacters/CountCharacters1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Trials/Common/Example.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
