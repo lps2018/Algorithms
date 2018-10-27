@@ -1,4 +1,4 @@
-package Iterator;
+package Iterators;
 
 import java.util.Enumeration;
 import java.util.Vector;
